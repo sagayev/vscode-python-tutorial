@@ -1,0 +1,8 @@
+**/logs
+*.log
+*.sqlite3
+requirements.txt
+__pychache__
+.vscode
+**/env/
+migrations/
